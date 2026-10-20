@@ -42,7 +42,7 @@ pip install opencv-python numpy
 ## Usage
 
 ```bash
-python cloak.py
+python main.py
 ```
 
 1. **Step out of the frame** during the countdown. Stay out until capture finishes.
