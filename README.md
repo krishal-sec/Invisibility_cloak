@@ -2,8 +2,6 @@
 
 A real-time "invisibility cloak" built with OpenCV. Hold up a plain, vividly colored cloth in front of the webcam(default is blue) and the cloth area is replaced with a picture of the room behind it, so it looks like the cloth is see-through.
 
-
-
 ## How it works
 
 Nothing is actually made invisible. It is a color-keyed background swap, the same idea as a green screen.
